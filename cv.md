@@ -9,3 +9,9 @@
  My main goal is learning IOS as soon as possible!
 ## Skills
  I have no skills in programming yet… only read books
+## Experience
+ I have no experience yet
+## Education
+ No
+## English  
+ A2
